@@ -16,6 +16,7 @@ SOURCES += \
     loginview.cpp \
     main.cpp \
     masterview.cpp \
+    new.cpp \
     patienteditview.cpp \
     patientview.cpp \
     welcomeview.cpp
@@ -26,6 +27,7 @@ HEADERS += \
     idatabase.h \
     loginview.h \
     masterview.h \
+    new.h \
     patienteditview.h \
     patientview.h \
     welcomeview.h
